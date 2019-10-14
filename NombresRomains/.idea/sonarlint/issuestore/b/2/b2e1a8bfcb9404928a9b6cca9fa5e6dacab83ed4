@@ -1,0 +1,25 @@
+
+1squid:S1220""Move this file to a named package.
+=squid:S1170"!Make this final field static too.(ŒŞøèÿÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ˆ–Ã´şÿÿÿÿ
+=squid:S1170"!Make this final field static too.(‡¦Ïüÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ï¢÷íøÿÿÿÿ
+=squid:S1170"!Make this final field static too.(…½ñÜüÿÿÿÿ
+=squid:S1170"!Make this final field static too.(””‚ûÿÿÿÿ
+=squid:S1170	"!Make this final field static too.(•ª¨ôøÿÿÿÿ
+msquid:S00116"PRename this field "MILLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŞøèÿÿÿÿÿ
+psquid:S00116"SRename this field "CINQCENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ–Ã´şÿÿÿÿ
+lsquid:S00116"ORename this field "CENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¦Ïüÿÿÿÿ
+qsquid:S00116"TRename this field "CINQUANTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¢÷íøÿÿÿÿ
+ksquid:S00116"NRename this field "DIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…½ñÜüÿÿÿÿ
+lsquid:S00116"ORename this field "CINQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(””‚ûÿÿÿÿ
+jsquid:S00116	"MRename this field "UN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ª¨ôøÿÿÿÿ
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ò¬«Öøÿÿÿÿ
+Esquid:S1068")Remove this unused "MILLE" private field.(ŒŞøèÿÿÿÿÿ
+Hsquid:S1068",Remove this unused "CINQCENT" private field.(ˆ–Ã´şÿÿÿÿ
+Dsquid:S1068"(Remove this unused "CENT" private field.(‡¦Ïüÿÿÿÿ
+Isquid:S1068"-Remove this unused "CINQUANTE" private field.(ï¢÷íøÿÿÿÿ
+Csquid:S1068"'Remove this unused "DIX" private field.(…½ñÜüÿÿÿÿ
+Dsquid:S1068"(Remove this unused "CINQ" private field.(””‚ûÿÿÿÿ
+Bsquid:S1068	"&Remove this unused "UN" private field.(•ª¨ôøÿÿÿÿ

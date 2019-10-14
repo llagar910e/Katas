@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ TirePressureMonitoringSystem.iml,5\5\55e9a5d8bacb5c7fa9fc1cf88269dd19fb8bfe53
+V
+&src/main/java/classes/SafetyRange.java,7\b\7bf876196f72fedc02fee1c48790c312e2703487
+Q
+!src/main/java/classes/Sensor.java,a\c\ac7a290a7ad6dc55c9f48f9934bd55e5e56f9fcb
+P
+ src/main/java/classes/Alarm.java,9\1\913372306fd94888c4e7d0da157d1bc986cdfa8e
+Y
+)src/main/java/classes/PressureSensor.java,2\8\28c5a95a6510b1029d1ac3151be7964f05ae4236
+[
++src/test/java/helpers/SensorSimulation.java,8\2\825ec952549259956ff0a7eaf64ecc60ccc221ee
+W
+'src/test/java/helpers/AlarmBuilder.java,0\b\0bec4c347522ac5f0dd0bc9afa50fc53a33d911d
+R
+"src/test/java/tests/AlarmTest.java,f\6\f6d4d3d1f8b6664c4951f9a76c01c5f06f97b1cf
